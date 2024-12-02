@@ -1,6 +1,3 @@
-# Atlas-jekyll-theme
-![Preview](./atlas-normal.png)
+# Biochemistry website
+Adapted from Atlas-jekyll-theme
 
-## How to use
-  - Delete the markdown files from \_posts and add your blog posts in the folder
-  - Change the details in \_config.yml
